@@ -1,0 +1,446 @@
+{
+  "properties": [
+    {
+      "id": "A0000001",
+      "guidePrice": "£400,500",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/40d51e9a1856cc658e1d973e952ecabddba85a58.jpg:p"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Retirement Home"
+      ],
+      "metaInfo": {
+        "highlights": "Just Added",
+        "listedDate": "2024-09-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "A0000002",
+      "guidePrice": "£404,020",
+      "status": "active",
+      "details": {
+        "bed": 2,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/7d6b28529d2fc155b0b4208c5392c63abfee74e0.jpg"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "school",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment",
+        "Family"
+      ],
+      "metaInfo": {
+        "highlights": "Just Added",
+        "listedDate": "2024-09-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "A0000003",
+      "guidePrice": "£380,200",
+      "status": "active",
+      "details": {
+        "bed": 2,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/6cc292e0bf292d9deb2663fca0bc6a6eff211cd1.jpg"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment",
+        "Retirement Home"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "highlights": "Just Added"
+      }
+    },
+    {
+      "id": "A0000004",
+      "guidePrice": "£660,000",
+      "status": "active",
+      "details": {
+        "bed": 4,
+        "living": 2,
+        "bath": 2
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/6e67e440536b12e6fe4994a6f2311952d5cfb9b1.jpg"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "highlights": "Just Added"
+      }
+    },
+    {
+      "id": "A0000005",
+      "guidePrice": "£520,500",
+      "status": "active",
+      "details": {
+        "bed": 2,
+        "living": 1,
+        "bath": 2
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/40d51e9a1856cc658e1d973e952ecabddba85a58.jpg:p"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "highlights": ""
+      }
+    },
+    {
+      "id": "A0000006",
+      "guidePrice": "£300,500",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/40d51e9a1856cc658e1d973e952ecabddba85a58.jpg:p"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-01-20T00:00:00.000Z",
+        "highlights": "Just Added"
+      }
+    },
+    {
+      "id": "A0000007",
+      "guidePrice": "£550,000",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/6cc292e0bf292d9deb2663fca0bc6a6eff211cd1.jpg"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-01-20T00:00:00.000Z",
+        "highlights": ""
+      }
+    },
+    {
+      "id": "A0000008",
+      "guidePrice": "£800,000",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/40d51e9a1856cc658e1d973e952ecabddba85a58.jpg:p"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-07-30T23:00:00.000Z",
+        "highlights": ""
+      }
+    },
+    {
+      "id": "A0000009",
+      "guidePrice": "£360,000",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/6cc292e0bf292d9deb2663fca0bc6a6eff211cd1.jpg"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-06-13T23:00:00.000Z",
+        "highlights": ""
+      }
+    },
+    {
+      "id": "A0000010",
+      "guidePrice": "£540,990",
+      "status": "active",
+      "details": {
+        "bed": 1,
+        "living": 1,
+        "bath": 1
+      },
+      "address": {
+        "houseNumber": "1",
+        "street": "Mansford Way",
+        "locality": "Ilford",
+        "postcode": "IG1"
+      },
+      "images": [
+        "https://lid.zoocdn.com/u/1024/768/40d51e9a1856cc658e1d973e952ecabddba85a58.jpg:p"
+      ],
+      "imageCount": 10,
+      "agency": {
+        "name": "Payne & Co",
+        "image": "https://st.zoocdn.com/zoopla_static_agent_logo_(662434).png"
+      },
+      "nearby": [
+        {
+          "type": "train",
+          "distance": "0.3 miles",
+          "locationName": "Holborn Station"
+        },
+        {
+          "type": "train",
+          "distance": "0.5 miles",
+          "locationName": "Farringdon Station"
+        }
+      ],
+      "leaseDetails": [
+        "Leasehold",
+        "Investment"
+      ],
+      "metaInfo": {
+        "listedDate": "2024-05-19T23:00:00.000Z",
+        "highlights": ""
+      }
+    }
+  ]
+}

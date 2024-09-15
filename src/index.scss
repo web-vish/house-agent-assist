@@ -1,0 +1,54 @@
+@import-normalize;
+
+:root {
+  --bg-color: #f3f3f3;
+  --text-light: #f2f2f2;
+  --text-dark: #151a2c;
+  --text-highlight: #8046f1;
+
+  --btn-color-primary: #151a2c;
+  --btn-color-secondary: #ccc;
+
+  --header-bg-color: #151a2c;
+  --header-border-color: #ccc;
+
+  --card-border-bg: #ccc;
+
+  --badge-color-1: #ffc800;
+  --badge-color-text: #151a2c;
+  --badge-dark-color: #151a2c;
+  --badge-dark-text: #f2f2f2;
+
+  --shadow-color-light: #ccc;
+  --loader-color: #8046f1;
+  --loader-gradient-color-1: #0000;
+  --loader-gradient-color-2: #000;
+
+  --color-red: #c00;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.8rem;
+  background-color: var(--bg-color);
+  color: var(--text-dark);
+}
+
+img {
+  width: 100%;
+}

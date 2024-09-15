@@ -1,0 +1,71 @@
+.mainContainer {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  address{
+    font-style: normal;
+  }
+  ul {
+    display: flex;
+    gap: 1rem 2rem;
+    margin: 0;
+  }
+  .detailsSection {
+    display: flex;
+    gap: 1rem 0;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 100%;
+    position: relative;
+    @media screen and (min-width: 767px) {
+      width: 45%;
+    }
+    .priceTitle {
+      margin: 1rem 0 0;
+      color: var(--text-highlight);
+      font-weight: 600;
+    }
+    .priceValue {
+      color: var(--text-highlight);
+      font-weight: 800;
+      font-size: 3.2rem;
+      line-height: 2;
+    }
+  }
+}
+
+.imageSection {
+  position: relative;
+  aspect-ratio: 3/2;
+  width: 100%;
+  margin: 1rem 0;
+  object-fit: contain;
+  @media screen and (min-width: 767px) {
+    width: 55%;
+    margin: 0;
+  }
+}
+
+.agencyLogo {
+  width: 10rem;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.metaInfo {
+  border-top: 1px solid var(--card-border-bg);
+  padding: 2rem 1rem;
+  display: flex;
+  font-size: 1.4rem;
+  justify-content: space-between;
+  button{
+    font-size: 1.6rem;
+  }
+}
+
+.expired{
+  color: var(--color-red)!important;
+}

@@ -1,0 +1,10 @@
+.nearby {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.4rem;
+  li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0 1rem;
+  }
+}

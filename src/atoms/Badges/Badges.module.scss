@@ -1,0 +1,40 @@
+.badges {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  padding: 1rem;
+  background-color: var(--badge-color-1);
+  border-radius: 5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badgeTag {
+  position: relative;
+  background-color: unset;
+  border: 1px solid var(--badge-dark-color);
+  border-radius: 5rem;
+  top: auto;
+  left: auto;
+  right: auto;
+  bottom: auto;
+}
+
+.dark {
+  top: auto;
+  left: auto;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: var(--badge-dark-color);
+  color: var(--badge-dark-text);
+  border-radius: 0;
+  opacity: 0.8;
+}
+
+.expired {
+  background-color: var(--color-red);
+  color: var(--badge-dark-text);
+}
